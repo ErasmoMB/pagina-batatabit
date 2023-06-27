@@ -23,11 +23,11 @@ Mobile First es un ejemplo de diseño y desarrollo de sitios web teniendo en cue
 
 ## Ver la página en vivo
 
-- [Pagina Batatabit](https://erasmomb.github.io/mobile-first.github.io/)
+- [Pagina Batatabit](https://erasmomb.github.io/pagina-batatabit/)
 
 ## Instalación
 
-1. Clona el repositorio: `git clone https://github.com/ErasmoMB/pagina-batatabit.github.io.git`
+1. Clona el repositorio: `git clone https://github.com/ErasmoMB/pagina-batatabit.`
 2. Abre el archivo `index.html` en tu navegador web.
 
 ## Contratación
